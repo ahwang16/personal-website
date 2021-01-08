@@ -14,9 +14,7 @@ organizations:
   url: https://www.upenn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first-year PhD student in the Department of Computer and Information Science at the University of Pennsylvania. I am particularly interested in the intersections of Natural Language Processing, Linguistics, and Psychology, especially expanding NLU resources for nonstandard English. I am supported by the NSF Graduate Research Fellowship Program.
-
-I earned my BS in Computer Science at Columbia University, where I conducted research and wrote an undergraduate thesis with Prof. Kathleen McKeown.
+bio: I am a first-year PhD student in the Department of Computer and Information Science at the University of Pennsylvania. I am particularly interested in the intersections of Natural Language Processing, Linguistics, and Psychology, especially expanding NLU resources for nonstandard English. I am supported by the NSF Graduate Research Fellowship Program. I earned my BS in Computer Science at Columbia University, where I conducted research and wrote an undergraduate thesis with Prof. Kathleen McKeown.
 
 # Interests to show in About widget
 interests:
