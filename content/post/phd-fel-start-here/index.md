@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Life Story"
+title: "Phd Fel Start Here"
 subtitle: ""
 summary: ""
 authors: []
-tags: ["me"]
+tags: ["phd"]
 categories: []
-date: 2021-01-10T16:59:09-05:00
-lastmod: 2021-01-10T16:59:09-05:00
+date: 2021-01-10T17:43:17-05:00
+lastmod: 2021-01-10T17:43:17-05:00
 featured: false
 draft: false
 
@@ -27,4 +27,3 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Hi this is a sample blog post

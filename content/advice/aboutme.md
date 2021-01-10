@@ -1,10 +1,10 @@
 ---
 widget: pages
-headless: true  # This file represents a page section.
+headless: true  # this file represents a page section.
 weight: 10
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Advice
+title: More About Me
 
 content:
   # Page type to display. E.g. post, event, or publication.
@@ -17,7 +17,7 @@ content:
   order: desc
   # Optionally filter posts by a taxonomy term.
   filters:
-    tag: ''
+    tag: 'me'
     category: ''
     publication_type: ''
     exclude_featured: false
