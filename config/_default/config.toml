@@ -19,6 +19,8 @@ copyright = ""
 ############################
 ## Advanced options below ##
 ############################
+# Disable plural titles
+pluralizeListTitles = false
 
 # Get last modified date for content from Git?
 enableGitInfo = false
